@@ -1,0 +1,17 @@
+albumentations
+einops
+numpy
+omegaconf
+open_clip_torch
+opencv_contrib_python
+opencv_python
+opencv_python_headless
+pillow
+pytorch_lightning
+safetensors
+scipy
+timm
+tqdm
+transformers
+wandb
+xformers
